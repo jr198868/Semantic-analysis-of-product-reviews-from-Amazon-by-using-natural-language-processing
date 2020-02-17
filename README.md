@@ -36,7 +36,7 @@ This study aims to assess the potential organohalide respiration capacity in was
 ##### 3. Run DADA2 Pipeline Tutorial：https://benjjneb.github.io/dada2/tutorial_1_8.html
 ##### code: https://github.com/jr198868/16S-rRNA-amplicon-sequencing-characterization-of-biosolids-from-a-wastewater-treatment-plant-and-hum/blob/master/code/dada2_code.txt
 
-![Screenshot](https://github.com/jr198868/Semantic-analysis-of-product-reviews-from-Amazon-by-using-natural-language-processing/raw/master/pictures/Top_10_positive_word_eatures.png)
+![Screenshot](https://github.com/jr198868/Semantic-analysis-of-product-reviews-from-Amazon-by-using-natural-language-processing/raw/master/pictures/Top_10_positive_word_features.png)
 ![Screenshot](https://github.com/jr198868/Semantic-analysis-of-product-reviews-from-Amazon-by-using-natural-language-processing/raw/master/pictures/Top_10_negative_word_features.png)
 
 
