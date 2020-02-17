@@ -28,23 +28,14 @@ In this project, several practical tools including the NLTK (natural language to
 
 ![Screenshot](https://github.com/jr198868//Semantic-analysis-of-product-reviews-from-Amazon-by-using-natural-language-processing/raw/master/pictures/Training_accuracy_vs_Classification_rate.png)
 
+##### The final results are slightly different every time I run this model. The final classification rate is around only 70% accuracy. By using the logistic regression model, the weights for the negative sentiment words had negative values and the weights for the positive sentiment words had positive values. This simple interpretability is losing if another powerful model has been used. Sometimes in machine learning, the interpretation is more important than the accuracy.     
+
 ![Screenshot](https://github.com/jr198868//Semantic-analysis-of-product-reviews-from-Amazon-by-using-natural-language-processing/raw/master/pictures/run1.png)
 
 ![Screenshot](https://github.com/jr198868//Semantic-analysis-of-product-reviews-from-Amazon-by-using-natural-language-processing/raw/master/pictures/run2.png)
 
 
 ***
-## 6. COURSERA Online Education
-
-- Practical Machine Learning [(Link)](https://www.coursera.org/learn/practical-machine-learning/home/welcome)
-- The Data Scientist’s Toolbox [(Link)](https://www.coursera.org/learn/data-scientists-tools/home/welcome)
-- Developing Data Products [(Link)](https://www.coursera.org/learn/data-products/home/welcome)
-- Regression Models [(Link)](https://www.coursera.org/learn/regression-models/home/welcome)
-- Statistical Inference [(Link)](https://www.coursera.org/learn/statistical-inference/home/welcome)
-- Reproducible Research [(Link)](https://www.coursera.org/learn/reproducible-research/home/welcome)
-- Exploratory Data Analysis [(Link)](https://www.coursera.org/learn/exploratory-data-analysis/home/welcome)
-- Getting and Cleaning Data [(Link)](https://www.coursera.org/learn/data-cleaning/home/welcome)
-- R Programming [(Link)](https://www.coursera.org/learn/r-programming/home/welcome)
 
 
 
