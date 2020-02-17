@@ -37,7 +37,7 @@ This study aims to assess the potential organohalide respiration capacity in was
 ##### code: https://github.com/jr198868/16S-rRNA-amplicon-sequencing-characterization-of-biosolids-from-a-wastewater-treatment-plant-and-hum/blob/master/code/dada2_code.txt
 
 ![Screenshot](https://github.com/jr198868/Semantic-analysis-of-product-reviews-from-Amazon-by-using-natural-language-processing/raw/master/pictures/Top_10_positive_word_eatures.png)
-![Screenshot](https://github.com/jr198868/Ran-Raymond-Jing-CV/raw/master/materials/Graphic_abstract_2.jpg)
+![Screenshot](https://github.com/jr198868/Semantic-analysis-of-product-reviews-from-Amazon-by-using-natural-language-processing/raw/master/pictures/Top_10_negative_word_eatures.png)
 
 
 ### 3.2 Multivariable Statistical Regression Analysis and Eutrophication Forecasting Model of Nutrient Flux Delivery to the Gulf of Mexico
