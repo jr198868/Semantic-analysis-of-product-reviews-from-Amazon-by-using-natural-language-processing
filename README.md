@@ -24,16 +24,6 @@ This study aims to assess the potential organohalide respiration capacity in was
 ![Screenshot](https://github.com/jr198868/Semantic-analysis-of-product-reviews-from-Amazon-by-using-natural-language-processing/raw/master/pictures/Top_10_positive_word_features.png)
 ![Screenshot](https://github.com/jr198868/Semantic-analysis-of-product-reviews-from-Amazon-by-using-natural-language-processing/raw/master/pictures/Top_10_negative_word_features.png)
 
-##### Standard of Procedure:
-
-	# Loading data (only look at the electronics category in this project)
-	# XML parser (BeautifulSoup) to scrap the key "review_text"
-	# Two passes: one to determine the vocabulary size and the index corresponds to which word and one to create vectors  
-	# Collect the total number of the distinct words and remove the "stop words"
-	# Assign values to each state of vector
-	# Implement SKLearn classifier to use a logistic regression model to look at the weights of the learned model to get a score for each individual input word
-
-
 ![Screenshot](https://github.com/jr198868//Semantic-analysis-of-product-reviews-from-Amazon-by-using-natural-language-processing/raw/master/pictures/Training_accuracy_vs_Classification_rate.png)
 
 
