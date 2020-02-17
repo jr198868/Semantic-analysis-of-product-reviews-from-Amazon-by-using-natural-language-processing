@@ -1,10 +1,5 @@
 # Semantic-analysis-of-product-reviews-from-Amazon-by-using-natural-language-processing
 
-## 2. Biography
-
-Raymond is graduating from the Department of Civil and Environmental Engineering at the University of Maryland College Park. He received his Ph.D. degree in 2019. He is currently looking for a full-time job in data science and software development. His work focuses on the bioremediation of persistent organic pollutants and bioinformatics analysis of intestinal biofilm and environmental microbiomes. Raymond applies his previous work in multivariate statistics and his background in bioinformatics to provide meaningful solutions. Other than multivariate statistics and bioinformatics, Raymond also has background of data structures and algorithms. He specializes in leveraging algorithms and defining workflows to develop software engineering projects.
-
-***
 ## 3. Recent Projects
 
 ### 3.1 Predicting the potential for organohalide respiration in wastewater? Comparison of intestinal and wastewater microbiomes
@@ -16,11 +11,13 @@ This study aims to assess the potential organohalide respiration capacity in was
 ##### 1. Install wget and fastq-dump programs to transfer sra data to fastq data. 
 
 	The following is a shortlist of steps for this process:
+	# Loading data (only look at the electronics category in this project)
+	# XML parser (BeautifulSoup) to scrap the key "review_text"
+	# Two passes: one to determine the vocabulary size and the index corresponds to which word and one to create vectors  
+	# Collect the total number of the distinct words and remove the "stop words"
+	# Assign values to each state of vector
+	# Implement SKLearn classifier to use a logistic regression model to look at the weights of the learned model to get a score for each individual input word
 
-	Step 1: Download wget and move it to a place you can access in R 
- 	Step 2: Download fastq-dump and move it to a place you can access in R 
-	Step 3: Set working directory, e.g.: setwd("Desktop/")
- 	Step 4: download sra data through R, e.g.: system("./wget https://sra-download.ncbi.nlm.nih.gov/traces/sra48/SRR/005448/SRR5578906")
 	
 ##### 2. Run fastq-dump to transfer sra data to fastq file e.g.: system("./fastq-dump --gzip --split-files SRR5578906")
 ##### 3. Run DADA2 Pipeline Tutorial：https://benjjneb.github.io/dada2/tutorial_1_8.html
@@ -31,18 +28,12 @@ This study aims to assess the potential organohalide respiration capacity in was
 
 ##### Standard of Procedure:
 
-	Step 1: Data cleaning and normalization
-	Step 2: Extract variables
-	step 3: Defines the number of observations and regressors 
-	Step 4: Create a matrix of 1s with the dimensions defined above
-	Step 5: Populate the matrix columns with regressors 
-	Step 6: Create an ordinary least squares model
-	Step 7: Extract the constants
-	Step 8: Calculate the model fit result
-	Step 9: Check the model residuals: Actual - prediction = residuals
-	Step 10: Defines the number of observations and regressors 
-	Step 11: Create a multilinear regression model to predict the dead zone area of the Mississippi River and the Gulf of Mexico
-
+	# Loading data (only look at the electronics category in this project)
+	# XML parser (BeautifulSoup) to scrap the key "review_text"
+	# Two passes: one to determine the vocabulary size and the index corresponds to which word and one to create vectors  
+	# Collect the total number of the distinct words and remove the "stop words"
+	# Assign values to each state of vector
+	# Implement SKLearn classifier to use a logistic regression model to look at the weights of the learned model to get a score for each individual input word
 
 
 ![Screenshot](https://github.com/jr198868//Semantic-analysis-of-product-reviews-from-Amazon-by-using-natural-language-processing/raw/master/pictures/Training_accuracy_vs_Classification_rate.png)
