@@ -29,11 +29,6 @@ This study aims to assess the potential organohalide respiration capacity in was
 
 ### 3.3 Compression of 16s-rRNA sequence by using enhanced Run-length encoding
 
-	
-![Screenshot](https://github.com/jr198868/Compression-of-16s-rRNA-sequence-by-using-enhanced-run-length-encoding/raw/master/materials/Graphic_abstract_5.jpg)
-
-![Screenshot](https://github.com/jr198868/Compression-of-16s-rRNA-sequence-by-using-enhanced-run-length-encoding/raw/master/materials/Graphic_abstract_6.jpg)
-
 ##### Encoding code: https://github.com/jr198868/Compression-of-16s-rRNA-sequence-by-using-enhanced-run-length-encoding/blob/master/code/Enhanced%20run-length%20encoding%20code
 
 ##### Decoding code:
