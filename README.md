@@ -70,8 +70,8 @@ However, a practical model for eutrophication control and prediction is very dif
 
 ##### This project is still ongoing! More microbial community and nutrient data will be collected from the United States Geological Survey (USGS) to determine microbial community patterns affecting by the nutrient dynamics by using multilinear regression analysis. 
 
-![Screenshot](https://github.com/jr198868/Ran-Raymond-Jing-CV/raw/master/materials/Graphic_abstract_3.jpg)
-![Screenshot](https://github.com/jr198868/Ran-Raymond-Jing-CV/raw/master/materials/Graphic_abstract_4.jpg)
+![Screenshot](https://github.com/jr198868//Semantic-analysis-of-product-reviews-from-Amazon-by-using-natural-language-processing/raw/master/pictures/Training_accuracy_vs_Classification_rate.png)
+
 
 ### 3.3 Compression of 16s-rRNA sequence by using enhanced Run-length encoding
 
