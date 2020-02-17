@@ -8,7 +8,6 @@
 This study aims to assess the potential organohalide respiration capacity in wastewater biosolids by investigating actively organohalide respiring bacteria with a focus on organohalide respiration of PCBs and PCE. Subsequently, it was evaluated if the OHR microbial populations in biosolids were similar to those present in intestinal human biofilms by applying a bioinformatic approach. The OHR populations of the communities were analyzed from existing American and Chinese human intestinal microbiomes. The overall groups Proteobacteria, Bacteroides, Actinobacteria, and Firmicutes phyla dominated the microbiomes in all datasets. The OHR groups in biosolids and intestinal biofilms included Dehalogenimonas, Dehalobacter, Desulfitibacter, Desulfovibrio, Sulfurospirillum, Clostridium, and Comamonas. The results of this study showed that several OHR phyla were present in all samples independent of origin. Wastewater and intestinal microbiomes also contained OHR phyla. 
 
 ##### Standard of Procedure:
-##### 1. Install wget and fastq-dump programs to transfer sra data to fastq data. 
 
 	The following is a shortlist of steps for this process:
 	# Loading data (only look at the electronics category in this project)
@@ -21,7 +20,6 @@ This study aims to assess the potential organohalide respiration capacity in was
 	
 ##### 2. Run fastq-dump to transfer sra data to fastq file e.g.: system("./fastq-dump --gzip --split-files SRR5578906")
 ##### 3. Run DADA2 Pipeline Tutorial：https://benjjneb.github.io/dada2/tutorial_1_8.html
-##### code: https://github.com/jr198868/16S-rRNA-amplicon-sequencing-characterization-of-biosolids-from-a-wastewater-treatment-plant-and-hum/blob/master/code/dada2_code.txt
 
 ![Screenshot](https://github.com/jr198868/Semantic-analysis-of-product-reviews-from-Amazon-by-using-natural-language-processing/raw/master/pictures/Top_10_positive_word_features.png)
 ![Screenshot](https://github.com/jr198868/Semantic-analysis-of-product-reviews-from-Amazon-by-using-natural-language-processing/raw/master/pictures/Top_10_negative_word_features.png)
