@@ -1,11 +1,13 @@
 # Semantic-analysis-of-product-reviews-from-Amazon-by-using-natural-language-processing
 
-## 3. Recent Projects
+#### ABSTRACT:
 
-### 3.1 Predicting the potential for organohalide respiration in wastewater? Comparison of intestinal and wastewater microbiomes
+Next we'll build a model for sentiment analysis in Python. This is something that allows us to assign a score to a block of text that tells us how positive or negative it is. People have used sentiment analysis on Twitter to predict the stock market.
 
-##### ABSTRACT:
-This study aims to assess the potential organohalide respiration capacity in wastewater biosolids by investigating actively organohalide respiring bacteria with a focus on organohalide respiration of PCBs and PCE. Subsequently, it was evaluated if the OHR microbial populations in biosolids were similar to those present in intestinal human biofilms by applying a bioinformatic approach. The OHR populations of the communities were analyzed from existing American and Chinese human intestinal microbiomes. The overall groups Proteobacteria, Bacteroides, Actinobacteria, and Firmicutes phyla dominated the microbiomes in all datasets. The OHR groups in biosolids and intestinal biofilms included Dehalogenimonas, Dehalobacter, Desulfitibacter, Desulfovibrio, Sulfurospirillum, Clostridium, and Comamonas. The results of this study showed that several OHR phyla were present in all samples independent of origin. Wastewater and intestinal microbiomes also contained OHR phyla. 
+We'll go over some practical tools and techniques like the NLTK (natural language toolkit) library and latent semantic analysis or LSA.
+
+
+
 
 ##### Standard of Procedure:
 
