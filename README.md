@@ -18,8 +18,8 @@ This study aims to assess the potential organohalide respiration capacity in was
 	# Implement SKLearn classifier to use a logistic regression model to look at the weights of the learned model to get a score for each individual input word
 
 	
-##### 2. Run fastq-dump to transfer sra data to fastq file e.g.: system("./fastq-dump --gzip --split-files SRR5578906")
-##### 3. Run DADA2 Pipeline Tutorial：https://benjjneb.github.io/dada2/tutorial_1_8.html
+##### The dataset in this project is about product reviews from Amazon and derives from the Johns Hopkins University’s Department of Computer Science.
+##### Download the datasets here: http://www.cs.jhu.edu/~mdredze/datasets/sentiment/
 
 ![Screenshot](https://github.com/jr198868/Semantic-analysis-of-product-reviews-from-Amazon-by-using-natural-language-processing/raw/master/pictures/Top_10_positive_word_features.png)
 ![Screenshot](https://github.com/jr198868/Semantic-analysis-of-product-reviews-from-Amazon-by-using-natural-language-processing/raw/master/pictures/Top_10_negative_word_features.png)
