@@ -2,9 +2,9 @@
 
 #### ABSTRACT:
 
-Next we'll build a model for sentiment analysis in Python. This is something that allows us to assign a score to a block of text that tells us how positive or negative it is. People have used sentiment analysis on Twitter to predict the stock market.
+This project aims to build a model for sentiment analysis for the different product reviews from Amazon. This project can allow me to assign a score to a block of text that tells us how positive or negative it is. 
 
-We'll go over some practical tools and techniques like the NLTK (natural language toolkit) library and latent semantic analysis or LSA.
+In this project, several practical tools including the NLTK (natural language toolkit) library and latent semantic analysis or LSA have been used. 
 
 
 
