@@ -4,7 +4,7 @@
 
 This project aims to build a model for sentiment analysis for the different product reviews from Amazon. This project can allow me to assign a score to a block of text that tells us how positive or negative it is. 
 
-In this project, several practical tools including the NLTK (natural language toolkit), sklear, BeautifulSoup, and matplotlib have been used. 
+In this project, several practical tools including the NLTK (natural language toolkit), sklearn, BeautifulSoup, and matplotlib have been used. 
 
 
 
